@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```javascript
 class unciafidelis{
   this.name = "Alejandro Morgan"
   this.age = 37
