@@ -1,6 +1,4 @@
-# Modern GitHub Profile
-
-## Welcome to My GitHub!
+# Welcome to My GitHub!
 
 Hello! I'm a PhD graduate in Engineering Sciences with a passion for Machine Learning and Data Science. Below, you'll find an overview of my skills, experience, and some Python-based examples that reflect my expertise. 
 
