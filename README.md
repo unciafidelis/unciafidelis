@@ -1,98 +1,86 @@
-# 👨‍💻 **Welcome to My GitHub Profile**
+# Modern GitHub Profile
 
-## 🚀 **About Me**
+## Welcome to My GitHub!
 
-Hi there! I am a **PhD graduate in Engineering Sciences** from the Universidad Autónoma de Zacatecas, with expertise in **Machine Learning**, **Data Science**, and **Software Development**. My passion lies in solving real-world problems with data-driven solutions, especially in:
-
-- **Bioinformatics**: Developing pipelines for detecting biomarkers (e.g., Type 2 Diabetes Mellitus).
-- **Finance**: Creating predictive models to analyze trends.
-- **Driver Behavior Analysis**: Enhancing automotive analytics through machine learning.
+Hello! I'm a PhD graduate in Engineering Sciences with a passion for Machine Learning and Data Science. Below, you'll find an overview of my skills, experience, and some Python-based examples that reflect my expertise. 
 
 ---
 
-## 🛠️ **Technical Skills**
-
-**Languages and Frameworks:**
-
-- **Backend:** R (feature selection, supervised classification), Python (TensorFlow, Keras, Pandas, Matplotlib), Node.js.
-- **Frontend:** Vue, Angular, React (basic proficiency).
-
-**Tools & DevOps:**
-
-- **Version Control:** Git (via VSCode), GitHub Pro.
-- **CI/CD Pipelines:** Azure Deployments, GitHub Actions.
-- **Testing:** Jest and Node.js.
-
-**Deployment:**
-
-- Web applications mounted on **Azure** with CI/CD pipelines.
+### About Me
+- **PhD in Engineering Sciences**: Specialized in Machine Learning applications for bioinformatics, finance, and automotive analytics.
+- **Technical Expertise**: Skilled in Python, R, Node.js, TensorFlow, and CI/CD pipelines.
+- **Soft Skills**: Analytical thinker, collaborative mentor, and a continuous learner.
 
 ---
 
-## 🧠 **Key Projects**
-
-### 📊 **Biomarker Detection for Type 2 Diabetes**
+### Skills Snapshot
 
 ```python
-import pandas as pd
-from sklearn.ensemble import RandomForestClassifier
+# Backend Development
+# - Python: TensorFlow, Keras, Numpy, Pandas
+# - R: Feature selection, supervised classification models
+# - Node.js: Scalable web applications
 
-# Load data
-data = pd.read_csv('biomarkers.csv')
-X = data.drop('target', axis=1)
-y = data['target']
+# Frontend Development
+# - Vue.js, Angular, React (basic proficiency)
 
-# Train model
-model = RandomForestClassifier(n_estimators=100, random_state=42)
-model.fit(X, y)
+# CI/CD & Deployment
+# - Git (via VSCode), GitHub Pro workflows
+# - Azure deployment with CI/CD pipelines
 
-# Output feature importances
-print("Top Biomarkers:", model.feature_importances_)
-```
-
-### 🚗 **Driver Behavior Analytics**
-
-```python
-import tensorflow as tf
-from tensorflow.keras.models import Sequential
-from tensorflow.keras.layers import Dense, Dropout
-
-# Define a deep learning model
-model = Sequential([
-    Dense(128, activation='relu', input_shape=(10,)),
-    Dropout(0.2),
-    Dense(64, activation='relu'),
-    Dense(1, activation='sigmoid')
-])
-
-# Compile the model
-model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy'])
-
-print(model.summary())
+# Additional Skills
+# - Jest for unit testing
+# - GitHub Actions
 ```
 
 ---
 
-## 🌱 **What I’m Learning**
+### Python Showcase: Biomarker Information
 
-- Advanced **DevOps** practices.
-- Enhancing proficiency in **Vue.js** and **React**.
-- Exploring **Azure ML** for cloud-based machine learning pipelines.
+```python
+# Biomarker Detection Information
+# This function provides insights into what biomarkers are and their significance.
+
+def biomarker_info():
+    """
+    Biomarkers are measurable indicators of a biological condition or state.
+    In medical research, they are used to:
+    - Diagnose diseases
+    - Monitor treatment effectiveness
+    - Predict disease progression
+
+    Example Application:
+    - In Type 2 Diabetes research, biomarkers like glucose levels and insulin resistance
+      are critical for early detection and personalized treatment.
+    """
+    description = (
+        "Biomarkers are essential tools in both medical diagnostics and "
+        "machine learning applications. Their accurate detection and analysis "
+        "can lead to groundbreaking advancements in healthcare."
+    )
+    return description
+
+# Call the function to display biomarker information
+print(biomarker_info())
+```
 
 ---
 
-## 🎯 **Soft Skills**
+### Key Projects
 
-- Analytical problem-solving ninja.  
-- Effective team mentor and communicator.  
-- Quick learner passionate about innovation.  
+- **Biomarker Detection**: Built pipelines in Python and R for Type 2 Diabetes research.
+- **Driver Behavior Analysis**: Developed predictive models for automotive data.
+- **Finance Models**: Designed ML solutions for trend forecasting.
 
 ---
 
-## 🌐 **Find Me Online**
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unciafidelis&show_icons=true&theme=radical)
 
-- **GitHub:** [unciafidelis](https://github.com/unciafidelis)  
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/alejandromorganmentor/)  
+---
 
-Feel free to explore my repositories, and let’s collaborate on exciting projects!
+### Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/unciafidelis)
+- [GitHub](https://github.com/unciafidelis)
 
+Feel free to explore my repositories and get in touch!
