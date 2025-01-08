@@ -80,7 +80,6 @@ print(biomarker_info())
 ---
 
 ### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/unciafidelis)
-- [GitHub](https://github.com/unciafidelis)
+- [LinkedIn](https://www.linkedin.com/in/alejandromorganmentor/)
 
 Feel free to explore my repositories and get in touch!
