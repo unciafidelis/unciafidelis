@@ -1,17 +1,17 @@
-# Welcome to My GitHub!
+# 🚀 Welcome to My GitHub!
 
 Hello! I'm a PhD graduate in Engineering Sciences with a passion for Machine Learning and Data Science. Below, you'll find an overview of my skills, experience, and some Python-based examples that reflect my expertise. 
 
 ---
 
-### About Me
+### 🎓 About Me
 - **PhD in Engineering Sciences**: Specialized in Machine Learning applications for bioinformatics, finance, and automotive analytics.
 - **Technical Expertise**: Skilled in Python, R, Node.js, TensorFlow, and CI/CD pipelines.
 - **Soft Skills**: Analytical thinker, collaborative mentor, and a continuous learner.
 
 ---
 
-### Skills Snapshot
+### 💻 Skills Snapshot
 
 ```python
 # Backend Development
@@ -33,7 +33,7 @@ Hello! I'm a PhD graduate in Engineering Sciences with a passion for Machine Lea
 
 ---
 
-### Python Showcase: Biomarker Information
+### 🧬 Python Showcase: Biomarker Information
 
 ```python
 # Biomarker Detection Information
@@ -64,7 +64,7 @@ print(biomarker_info())
 
 ---
 
-### Key Projects
+### 🔑 Key Projects
 
 - **Biomarker Detection**: Built pipelines in Python and R for Type 2 Diabetes research.
 - **Driver Behavior Analysis**: Developed predictive models for automotive data.
@@ -72,12 +72,13 @@ print(biomarker_info())
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unciafidelis&show_icons=true&theme=radical)
 
 ---
 
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/alejandromorganmentor/)
+### 🌐 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/alejandromorganmentor/)
 
 Feel free to explore my repositories and get in touch!
